@@ -1,0 +1,2 @@
+This code calculates FT (alpha ejection) corrections (assuming an averaging stopping distance based on average abundances of U and Th) for rectangular prism hematite plates with one input z-length an infinite horizontal plane (FTcorr2d_3d.ipynb) or with three input lengths (x, y, z) (ftifalldir.ipynb).
+Output FT assumes loss is balanced on one z-direction side and FTneither assumes loss on both sides.
